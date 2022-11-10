@@ -1,16 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 10 11:26:37 2022
+Created on Thu Nov 10 11:34:29 2022
 
 @author: c1216647
 """
 
-#Tutorial
-import numpy as np
+#Testing for GIT
 
-a=3+5
-print(a)
+print("Hello World")
+print("Type your name")
+name=input()
 
-b=4+3
+print("Hi",name)
 
-c=b*2
+print("Thank you")
+a=1+2
