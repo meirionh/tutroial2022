@@ -12,3 +12,5 @@ print("Type your name")
 name=input()
 
 print("Hi",name)
+
+print("Thank you")
